@@ -1,6 +1,7 @@
 # Table of contents
 
 * [👋 Welcome to Ecolab](README.md)
+* [Page](page.md)
 
 ## Overview
 
@@ -19,13 +20,12 @@
   * [Updating local.properties](project-setup/flutter-setup/updating-local.properties.md)
   * [Changing Application Package Name](project-setup/flutter-setup/changing-application-package-name.md)
 * [🛠️ Admin Panel Setup](project-setup/admin-panel-setup/README.md)
-  * [Updating local.properties](project-setup/admin-panel-setup/updating-local.properties.md)
-  * [Changing Application Package Name](project-setup/admin-panel-setup/changing-application-package-name.md)
-* [Page](project-setup/page.md)
+  * [Requirements](project-setup/admin-panel-setup/requirements.md)
 
 ## Publising Application
 
 * [Building and Publishing for Android](publising-application/building-and-publishing-for-android.md)
+* [Building and Publishing for iOS](publising-application/building-and-publishing-for-ios.md)
 
 ## Product Guides
 
